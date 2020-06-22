@@ -1,6 +1,7 @@
 ## My Solutions for FreeCodeCamps JS Data Structure & Algorithm Projects
 
 After fishing all of these projects, I created this repo to showcase my code base.
+Check out this [link](https://www.freecodecamp.org/certification/thinhle-eddie/javascript-algorithms-and-data-structures) for viewing my certificate.
 
 ### Overview of the five projects
 

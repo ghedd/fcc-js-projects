@@ -25,12 +25,12 @@ Check out this [link](https://www.freecodecamp.org/certification/thinhle-eddie/j
 
 - Descriptions: The user may fill out the form field any way they choose as long as it has the format of a valid US number. The following are examples of valid formats for US numbers (refer to the tests below for other variants):
 
-      >555-555-5555
-      >(555)555-5555
-      >(555) 555-5555
-      >555 555 5555
-      >5555555555
-      >1 555 555 5555
+      > 555-555-5555
+      > (555)555-5555
+      > (555) 555-5555
+      > 555 555 5555
+      > 5555555555
+      > 1 555 555 5555
 
 - Objective:
   - Validate or reject the US phone number based on any combination of the formats provided above.
